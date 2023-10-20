@@ -1,0 +1,14 @@
+#container{
+    background-color: #ccc;
+    height: 300px;
+    display: flex;
+}
+.item{
+    background-color: #333;
+    color: #fff;
+    margin: 5px;
+    padding: 20px;
+}
+
+
+
